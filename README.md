@@ -5,7 +5,7 @@ in 30 second chunks, and every 30 seconds surfaces 3 context-aware suggestions -
 any card to get the expanded answer in the chat on the right, or type
 your own question.
 
-Check it out: https://twin-mind-live-suggestions--rikhila-annem.replit.app
+Check it out: [https://insight-ai--rikhilareddyann.replit.app/]
 
 
 **Backend:** Python. FastAPI
